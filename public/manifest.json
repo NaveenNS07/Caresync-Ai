@@ -1,0 +1,16 @@
+{
+  "name": "CareSync AI - Rural Care Continuity",
+  "short_name": "CareSync AI",
+  "description": "Rural Care Continuity and Coordination Platform for Maternal Health",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1517",
+  "theme_color": "#0D9488",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
